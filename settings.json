@@ -8,8 +8,7 @@
   "server": {
     "ip": "MinecraftPakku.aternos.me",
     "port": 53985,
-    "version": "1.21.11",
-    "try-creative": false
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -31,8 +30,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm a regular player" ,
         "I like to play Minecraft!"
       ]
     },
