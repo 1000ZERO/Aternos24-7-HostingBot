@@ -9,7 +9,6 @@
     "ip": "MinecraftPakku.aternos.me",
     "port": 53985,
     "version": "1.21.11"
-    "try-creative": false
   },
   "position": {
     "enabled": true,
